@@ -1,4 +1,4 @@
--#Sibre Mim
+-#Sobre Mim
 - 
 -   👋 oi, meu nome é Rafael dall agnol
 - 👀 estou interresado em aprender novas linguaguens de programaçao
