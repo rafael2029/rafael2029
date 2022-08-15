@@ -4,7 +4,7 @@
 - 👀 estou interresado em aprender novas linguaguens de programaçao
 - 💞️ Estou colaborando colaborando com as aulas de pensamento computacional
 - já aprendi scracth e java script
-https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white
+![] (https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 - 📫 meu email é rafael.agnol@escola.pr.gov.br
 
 <!---
